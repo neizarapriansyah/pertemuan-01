@@ -1,13 +1,13 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #f0f2f5;
+    background-color: #f0f2f5; /* menambahkan background halaman */
 }
 header {
     padding: 30px;
     text-align: center;
-    background: #177788;
-    color: white;
+    background: #177788; /* mengubah warna background header */
+    color: white; /* mengubah warna teks header */
 }
 nav {
     padding: 15px;
@@ -23,8 +23,8 @@ article {
     padding: 30px;
     max-width: 900px;
     margin: 20px auto;
-    background: white;
-    border-radius: 8px;
+    background: white; /* mengubah background article menjadi putih */
+    border-radius: 8px; /* menambahkan sudut melengkung pada article */
 }
 footer {
     padding: 20px;
